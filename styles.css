@@ -21,10 +21,8 @@ body {
     min-height: 100vh;
     user-select: none;
     -webkit-user-select: none;
-    -ms-user-select: none;
-}
-
-/* Header & Navigation *
+    -ms-user-select:
+/* Header & Navigation */
 .header {
     position: fixed;
     top: 0;

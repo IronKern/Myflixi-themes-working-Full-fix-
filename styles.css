@@ -24,7 +24,7 @@ body {
     -ms-user-select: none;
 }
 
-/* Header & Navigation */
+/* Header & Navigation *
 .header {
     position: fixed;
     top: 0;
@@ -32,7 +32,7 @@ body {
     z-index: 100;
     background: linear-gradient(to bottom, #000000cc, transparent);
     backdrop-filter: blur(10px);
-}
+<meta name="theme-color" content="#0f0f0f">
 
 .nav {
     max-width: 1400px;
